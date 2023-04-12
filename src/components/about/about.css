@@ -1,0 +1,17 @@
+.about__conatiner {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+
+.title {
+  text-align: center;
+}
+
+.about_me {
+  background: var(--color-bg-variant);
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  padding: 2rem;
+  text-align: center;
+}
