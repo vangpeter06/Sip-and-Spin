@@ -55,9 +55,6 @@ const Menu = () => {
             </ol>
           </div>
         </div> */}
-          <div className="menu_image">
-            
-          </div>
         </div>
       </section>
     </menu>
