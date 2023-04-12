@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sip-and-Spin/static/css/main.f086d57d.css",
+    "main.js": "/Sip-and-Spin/static/js/main.4ae47b1f.js",
+    "static/media/IMG_6466.jpeg": "/Sip-and-Spin/static/media/IMG_6466.90a1968dc811cc5e16db.jpeg",
+    "static/media/IMG_6464.jpeg": "/Sip-and-Spin/static/media/IMG_6464.86eeac38eb30fd08772b.jpeg",
+    "static/media/IMG_6469.jpeg": "/Sip-and-Spin/static/media/IMG_6469.16ddeef5c4a4f1435cad.jpeg",
+    "static/media/IMG_6468.jpeg": "/Sip-and-Spin/static/media/IMG_6468.82fc99d12e02ef261095.jpeg",
+    "static/media/IMG_6463.jpeg": "/Sip-and-Spin/static/media/IMG_6463.15bbd62e43dd3dc14f20.jpeg",
+    "static/media/IMG_6454.jpeg": "/Sip-and-Spin/static/media/IMG_6454.4c75543001c94f4561d8.jpeg",
+    "static/media/IMG_6470.jpeg": "/Sip-and-Spin/static/media/IMG_6470.bbf4e59b9176533f92ef.jpeg",
+    "static/media/IMG_6455.jpeg": "/Sip-and-Spin/static/media/IMG_6455.079269c763c477242807.jpeg",
+    "static/media/IMG_6460.jpeg": "/Sip-and-Spin/static/media/IMG_6460.66b44d9fa461635a0bea.jpeg",
+    "static/media/IMG_6472.jpeg": "/Sip-and-Spin/static/media/IMG_6472.5ff6886953d8e2ea8967.jpeg",
+    "static/media/IMG_6459.jpeg": "/Sip-and-Spin/static/media/IMG_6459.ed517cfa88a6ef489e6a.jpeg",
+    "static/media/IMG_6461.jpeg": "/Sip-and-Spin/static/media/IMG_6461.55a67ee7e6ffe8c8303b.jpeg",
+    "static/media/IMG_6467.jpeg": "/Sip-and-Spin/static/media/IMG_6467.e3ba425e089af91a2136.jpeg",
+    "static/media/IMG_6457.jpeg": "/Sip-and-Spin/static/media/IMG_6457.85e72d800ef4b4691e90.jpeg",
+    "static/media/menu.png": "/Sip-and-Spin/static/media/menu.b6ef082d6da3cf82a77a.png",
+    "static/media/logo.png": "/Sip-and-Spin/static/media/logo.836a668c67d70d3a3278.png",
+    "index.html": "/Sip-and-Spin/index.html",
+    "main.f086d57d.css.map": "/Sip-and-Spin/static/css/main.f086d57d.css.map",
+    "main.4ae47b1f.js.map": "/Sip-and-Spin/static/js/main.4ae47b1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f086d57d.css",
+    "static/js/main.4ae47b1f.js"
+  ]
+}
