@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sip-and-Spin/static/css/main.f086d57d.css",
+    "main.css": "/Sip-and-Spin/static/css/main.4eaae61d.css",
     "main.js": "/Sip-and-Spin/static/js/main.4ae47b1f.js",
     "static/media/IMG_6466.jpeg": "/Sip-and-Spin/static/media/IMG_6466.90a1968dc811cc5e16db.jpeg",
     "static/media/IMG_6464.jpeg": "/Sip-and-Spin/static/media/IMG_6464.86eeac38eb30fd08772b.jpeg",
@@ -19,11 +19,11 @@
     "static/media/menu.png": "/Sip-and-Spin/static/media/menu.b6ef082d6da3cf82a77a.png",
     "static/media/logo.png": "/Sip-and-Spin/static/media/logo.836a668c67d70d3a3278.png",
     "index.html": "/Sip-and-Spin/index.html",
-    "main.f086d57d.css.map": "/Sip-and-Spin/static/css/main.f086d57d.css.map",
+    "main.4eaae61d.css.map": "/Sip-and-Spin/static/css/main.4eaae61d.css.map",
     "main.4ae47b1f.js.map": "/Sip-and-Spin/static/js/main.4ae47b1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f086d57d.css",
+    "static/css/main.4eaae61d.css",
     "static/js/main.4ae47b1f.js"
   ]
 }
